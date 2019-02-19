@@ -9,6 +9,11 @@
             "UnauthRoleName": "awsappsyncchatstarte-20190218221926-unauthRole",
             "StackName": "awsappsyncchatstarte-20190218221926",
             "StackId": "arn:aws:cloudformation:us-east-2:714090130982:stack/awsappsyncchatstarte-20190218221926/8b89ff10-33fd-11e9-ad82-062853107e54"
+        },
+        "categories": {
+            "auth": {
+                "cognito93e85226": {}
+            }
         }
     }
 }

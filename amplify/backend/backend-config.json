@@ -1,1 +1,23 @@
-{}
+{
+	"auth": {
+		"cognito93e85226": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"api": {
+		"awsappsyncchatstarte": {
+			"service": "AppSync",
+			"providerPlugin": "awscloudformation",
+			"output": {
+				"securityType": "AMAZON_COGNITO_USER_POOLS"
+			}
+		}
+	},
+	"storage": {
+		"s3e8b1d3ad": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+    "AppSyncApiName": "awsappsyncchatstarte",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognito93e85226",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
