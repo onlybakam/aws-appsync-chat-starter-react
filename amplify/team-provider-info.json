@@ -1,0 +1,14 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "awsappsyncchatstarte-20190218221926-authRole",
+            "UnauthRoleArn": "arn:aws:iam::714090130982:role/awsappsyncchatstarte-20190218221926-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::714090130982:role/awsappsyncchatstarte-20190218221926-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "awsappsyncchatstarte-20190218221926-deployment",
+            "UnauthRoleName": "awsappsyncchatstarte-20190218221926-unauthRole",
+            "StackName": "awsappsyncchatstarte-20190218221926",
+            "StackId": "arn:aws:cloudformation:us-east-2:714090130982:stack/awsappsyncchatstarte-20190218221926/8b89ff10-33fd-11e9-ad82-062853107e54"
+        }
+    }
+}
