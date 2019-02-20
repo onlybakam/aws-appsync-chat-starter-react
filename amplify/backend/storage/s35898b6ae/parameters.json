@@ -1,7 +1,7 @@
 {
-    "bucketName": "awsappsyncchatstarteaeb9768d63d542898d3886ab73c64786",
-    "authPolicyName": "s3_amplify_e8b1d3ad",
-    "unauthPolicyName": "s3_amplify_e8b1d3ad",
+    "bucketName": "chacha28fa44d585584e35bba90f32eb581d0f",
+    "authPolicyName": "s3_amplify_5898b6ae",
+    "unauthPolicyName": "s3_amplify_5898b6ae",
     "authRoleName": {
         "Ref": "AuthRoleName"
     },

@@ -1,12 +1,12 @@
 {
 	"auth": {
-		"cognito93e85226": {
+		"cognitobfcd24f6": {
 			"service": "Cognito",
 			"providerPlugin": "awscloudformation"
 		}
 	},
 	"api": {
-		"awsappsyncchatstarte": {
+		"chacha": {
 			"service": "AppSync",
 			"providerPlugin": "awscloudformation",
 			"output": {
@@ -15,7 +15,7 @@
 		}
 	},
 	"storage": {
-		"s3e8b1d3ad": {
+		"s35898b6ae": {
 			"service": "S3",
 			"providerPlugin": "awscloudformation"
 		}
